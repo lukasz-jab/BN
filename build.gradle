@@ -11,6 +11,8 @@ repositories {
 dependencies {
     testCompile 'org.testng:testng:7.1.0'
     testCompile 'org.seleniumhq.selenium:selenium-java:3.141.59'
+    testCompile 'com.google.code.gson:gson:2.8.6'
+    testCompile 'com.jayway.restassured:rest-assured:2.9.0'
     
 }
 

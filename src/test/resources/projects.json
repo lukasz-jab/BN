@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Tytuł",
+    "startDate": "2020-11-23",
+    "endDate": "2020-11-23",
+    "description": "Opis",
+    "affiliation": {
+      "id": "1",
+      "name": "new Affiliation"
+    },
+    "keywords": [
+      "słowo klucz 1",
+      "słowo klucz 2"
+    ],
+    "invites": [
+      "zaproszenie 1",
+      "zaproszenie 2"
+    ],
+    "inviteMessage": "wiadomość zaproszenia",
+    "projectid": "projekt nr 1"
+  }
+]

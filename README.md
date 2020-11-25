@@ -1,10 +1,10 @@
-# BN
+# bn
 
 1.                  W oparciu o Page Object Model (POM), Selenium i wybrany framework testowy (TestNG lub JUnit) przygotuj testy end to end:
 
-•                    Ścieżki ze strony głównej BN (bn.org.pl) przez menu główne – dla bibliotekarzy – aktualności
+•                    Ścieżki ze strony głównej bn (bn.org.pl) przez menu główne – dla bibliotekarzy – aktualności
 
-•                    Przez menu główne na stronie BN do polona.pl
+•                    Przez menu główne na stronie bn do polona.pl
 
 Nie ma konieczności mapowania wszystkich elementów stron, wystarczą te używane w testach.
 
